@@ -4,3 +4,9 @@ O câncer de pele é a neoplasia de maior incidência no Brasil, sendo o melanom
 
 O arquivo <b> MelanomaML.ipynb </b> possui o código de classificação de imagens de melanoma utilizando redes neurais convolucionais. <br>
 O arquivo <b> PredictMelanoma.ipynb </b> importa o modelo treinado e apresenta uma solução para que o médico faça o upload de uma imagem a partir de seu computador.
+
+O sistema pega a imagem de uma foto e classifica se ela possui um melanoma benigno ou maligno. <br>
+CLASSIFICAÇÔES POSSÌVEIS:<br>
+0 = Benigno<br>
+1 = Maligno<br>
+<b>OBSERVAÇÂO:</b> Este é só um app de teste para o aprendizado de redes neurais. Caso apareça alguma mancha em seu corpo, procure um médico!
