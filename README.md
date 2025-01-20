@@ -9,4 +9,4 @@ O sistema pega a imagem de uma foto e classifica se ela possui um melanoma benig
 CLASSIFICAÇÔES POSSÌVEIS:<br>
 0 = Benigno<br>
 1 = Maligno<br>
-<b>OBSERVAÇÂO:</b> Este é só um app de teste para o aprendizado de redes neurais. Caso apareça alguma mancha em seu corpo, procure um médico!
+<b>OBSERVAÇÂO:</b> Este é só um app de teste para o aprendizado de redes neurais, criado como trabalho da disciplina de pós graduação Ciência e Visualização de Dados em Saúde. Caso apareça alguma mancha em seu corpo, procure um médico!
